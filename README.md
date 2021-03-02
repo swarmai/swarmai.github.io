@@ -1,1 +1,1 @@
-# swarmai.github.io
+# swarmai
